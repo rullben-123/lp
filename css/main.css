@@ -2717,6 +2717,10 @@ html.no-csstransitions .hero-content {
   display: none;
 }
 
+.services-list__item-body-services {
+  font-size: 14px;
+}
+
 .is-active .services-list__item-header::after {
   -webkit-transform: rotate(225deg);
   transform: rotate(225deg);
